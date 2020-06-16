@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SBOL | The Synthetic Biology Open Language</title>
+    <link>/author/sbol/</link>
+      <atom:link href="/author/sbol/index.xml" rel="self" type="application/rss+xml" />
+    <description>SBOL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/sbol/avatar_hu8bba89a1624586e9ee8b726336c8eb06_60378_270x270_fill_lanczos_center_2.png</url>
+      <title>SBOL</title>
+      <link>/author/sbol/</link>
+    </image>
+    
+  </channel>
+</rss>
