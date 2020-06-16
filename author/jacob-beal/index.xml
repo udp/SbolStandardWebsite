@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | The Synthetic Biology Open Language</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Jacob Beal | The Synthetic Biology Open Language</title>
+    <link>/author/jacob-beal/</link>
+      <atom:link href="/author/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Beal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8bba89a1624586e9ee8b726336c8eb06_60378_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Jacob Beal</title>
+      <link>/author/jacob-beal/</link>
     </image>
     
     <item>
