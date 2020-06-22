@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | The Synthetic Biology Open Language</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Thomas E Gorochowski | The Synthetic Biology Open Language</title>
+    <link>/author/thomas-e-gorochowski/</link>
+      <atom:link href="/author/thomas-e-gorochowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas E Gorochowski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8bba89a1624586e9ee8b726336c8eb06_60378_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Thomas E Gorochowski</title>
+      <link>/author/thomas-e-gorochowski/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/visual2ontology/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/visual2ontology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
-      <link>/publication/shortbol/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/shortbol/</guid>
       <description></description>
     </item>
     
