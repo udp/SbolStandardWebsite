@@ -5,12 +5,28 @@
     <link>/author/jacob-beal/</link>
       <atom:link href="/author/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Beal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Jacob Beal</title>
       <link>/author/jacob-beal/</link>
     </image>
+    
+    <item>
+      <title>Synthetic biology open language (SBOL) version 3.0.0</title>
+      <link>/publication/sbol3/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic biology open language visual (SBOL visual) version 2.2</title>
+      <link>/publication/visualsbol221/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/visualsbol221/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SBOL Visual 2 Ontology</title>

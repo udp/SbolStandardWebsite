@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernst Oberortner | The Synthetic Biology Open Language</title>
+    <link>/author/ernst-oberortner/</link>
+      <atom:link href="/author/ernst-oberortner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ernst Oberortner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ernst Oberortner</title>
+      <link>/author/ernst-oberortner/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic biology open language (SBOL) version 3.0.0</title>
+      <link>/publication/sbol3/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
