@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling | The Synthetic Biology Open Language</title>
+    <link>/tag/modeling/</link>
+      <atom:link href="/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Modeling</title>
+      <link>/tag/modeling/</link>
+    </image>
+    
+    <item>
+      <title>Cello</title>
+      <link>/applications/cello/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/cello/</guid>
+      <description>&lt;p&gt;Cello is a framework that describes what is essentially a programming language to design computational circuits in living cells. The circuits generated on plasmids expressed in Escherichia coli required careful insulation from their genetic context, but primarily functioned as specified. The circuits could, for example, regulate cellular functions in response to multiple environmental signals. Such a strategy can facilitate the development of more complex circuits by genetic engineering.&lt;/p&gt;
+&lt;p&gt;Cello converts electronic design specifications of combinational logic to complete DNA sequences encoding transcriptional logic circuits that can be executed in bacterial cells. A database of transcriptional repressors characterized in the Voigt lab provide genetic NOT gates and NOR gates that can be composed into any Boolean logic function specified in Verilog.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Doug Densmore&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Boston University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Java/HTML/JS/CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD 2-Clause&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>j5</title>
+      <link>/applications/j5/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/j5/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Nathan Hillson&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Lawrence Berkeley National Lab&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Perl&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

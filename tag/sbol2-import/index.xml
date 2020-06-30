@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SBOL2 Import | The Synthetic Biology Open Language</title>
+    <link>/tag/sbol2-import/</link>
+      <atom:link href="/tag/sbol2-import/index.xml" rel="self" type="application/rss+xml" />
+    <description>SBOL2 Import</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>SBOL2 Import</title>
+      <link>/tag/sbol2-import/</link>
+    </image>
+    
+    <item>
+      <title>DNAplotlib</title>
+      <link>/applications/dnaplotlib/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/dnaplotlib/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Thomas Gorochowski&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;University of Bristol, UK (originally Voigt Lab, MIT)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;MIT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICE</title>
+      <link>/applications/ice/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/ice/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Hector Plahar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Lawrence Berkeley National Lab&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Java&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SBOLDesigner</title>
+      <link>/applications/sboldesigner/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/sboldesigner/</guid>
+      <description>&lt;p&gt;SBOLDesigner 2.1 is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.0 data model. Throughout the design process, SBOL Visual symbols, a system of schematic glyphs, provide standardized visualizations of individual parts. SBOLDesigner 2.1 completes a workflow for users of genetic design automation tools. It combines a simple user interface with the power of the SBOL standard and serves as a launchpad for more detailed designs involving simulations and experiments. Some new features in SBOLDesigner 2.1 are SBOL Stack integration, local repositories, importing of parts/sequences from existing files, import and export of GenBank and FASTA files, extended role ontology support, the ability to partially open designs with multiple root ComponentDefinitions, backward compatibility with SBOL 1.1, and versioning. SBOLDesigner is made freely available under the Apache 2.0 license.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Doug Densmore&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Boston University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Java/HTML/JS/CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD 2-Clause&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
