@@ -263,7 +263,19 @@
   </url>
   
   <url>
+    <loc>/sbol-industrial/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/community/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
   <url>
