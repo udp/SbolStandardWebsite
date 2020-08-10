@@ -89,6 +89,54 @@
     </item>
     
     <item>
+      <title>Eugene</title>
+      <link>/applications/eugene/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/eugene/</guid>
+      <description>&lt;p&gt;Eugene is a textual specification language for the rule-based design of synthetic biological systems, devices, parts, and DNA sequences.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KczZskca60g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Douglas Densmore&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Boston University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Java&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows, Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;CC BY-SA 4.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Finch</title>
       <link>/applications/finch/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
@@ -120,6 +168,49 @@
 &lt;tr&gt;
 &lt;td&gt;Availability&lt;/td&gt;
 &lt;td&gt;Free for academic users&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graphviz</title>
+      <link>/applications/graphviz/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/graphviz/</guid>
+      <description>&lt;p&gt;Graphviz (short for Graph Visualization Software) is a package of open-source tools initiated by AT&amp;amp;T Labs Research for drawing graphs specified in DOT language scripts. It also provides libraries for software applications to use the tools. Graphviz is free software licensed under the Eclipse Public License. Graphviz includes SBOL visual symbols in its set of node shapes, and has edge shapes compatible with proposed regulatory arc shapes.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Graphviz Community&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Graphviz Community&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;Eclipse Public License - v 1.0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -293,6 +384,49 @@
     </item>
     
     <item>
+      <title>Proto BioCompiler</title>
+      <link>/applications/protobiocompiler/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/protobiocompiler/</guid>
+      <description>&lt;p&gt;Proto BioCompiler generates optimized genetic regulatory network designs from specifications written in a high-level programming language, producing both SBOL specifications, visualization, and ODE models.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Jacob Beal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Raytheon BBN Technologies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C/C++&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux/Mac/Win/Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;GPL3 with classpath exception&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SBOLDesigner</title>
       <link>/applications/sboldesigner/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
@@ -377,6 +511,49 @@
 &lt;tr&gt;
 &lt;td&gt;License&lt;/td&gt;
 &lt;td&gt;BSD 2-Clause&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinkerCell</title>
+      <link>/applications/tinkercell/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/tinkercell/</guid>
+      <description>&lt;p&gt;TinkerCell is a widely used open source network design and simulation application tool for synthetic biology (tinkercell.org). The software allows synthetic biologists to design new synthetic circuits and simulate them. TinkerCell is written in C++ and runs on Windows, Mac and Linux. It uses Qt as the GUI framework. Currently TinkerCell only has very limited support for SBOL.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Herbert Sauro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;University of Washington&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C/C++&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

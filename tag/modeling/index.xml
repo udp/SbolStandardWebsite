@@ -139,6 +139,174 @@
     </item>
     
     <item>
+      <title>Parts &amp; Pools</title>
+      <link>/applications/partsandpools/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/partsandpools/</guid>
+      <description>&lt;p&gt;Graphical, drag and drop design of synthetic gene circuit with Standard Biological Parts. Eukaryotic parts are modelled via a rule-based approach.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Mario Andrea Marchisio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Harbin Institute of Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;Perl/Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Free for all users&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proto BioCompiler</title>
+      <link>/applications/protobiocompiler/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/protobiocompiler/</guid>
+      <description>&lt;p&gt;Proto BioCompiler generates optimized genetic regulatory network designs from specifications written in a high-level programming language, producing both SBOL specifications, visualization, and ODE models.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Jacob Beal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;Raytheon BBN Technologies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C/C++&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux/Mac/Win/Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;GPL3 with classpath exception&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tellurium</title>
+      <link>/applications/tellurium/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/tellurium/</guid>
+      <description>&lt;p&gt;Tellurium is a Python environment based on spyder2 IDE, designed for systems and synthetic biology simulations. It combines a number of existing libraries, including libRoadRunner, libAntimony, and phraSED-ML, alongside with standards support through libSBML, libSEDML, and pySBOL. Additionally, other Python packages such as matplotlib and NumPy are used to provide extra analysis, optimization, and plotting capabilities.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Kiri Choi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;University of Washington&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C/C++&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinkerCell</title>
+      <link>/applications/tinkercell/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/applications/tinkercell/</guid>
+      <description>&lt;p&gt;TinkerCell is a widely used open source network design and simulation application tool for synthetic biology (tinkercell.org). The software allows synthetic biologists to design new synthetic circuits and simulate them. TinkerCell is written in C++ and runs on Windows, Mac and Linux. It uses Qt as the GUI framework. Currently TinkerCell only has very limited support for SBOL.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Contact Person&lt;/td&gt;
+&lt;td&gt;Herbert Sauro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization(s)&lt;/td&gt;
+&lt;td&gt;University of Washington&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;td&gt;C/C++&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OS/Platform&lt;/td&gt;
+&lt;td&gt;Linux, Mac, Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Availability&lt;/td&gt;
+&lt;td&gt;Open-Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;License&lt;/td&gt;
+&lt;td&gt;BSD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Virtual Parts Repository</title>
       <link>/applications/vpr/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
