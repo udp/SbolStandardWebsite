@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/applications/genegenie/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/genocad/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/ibiosim/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/applications/ice/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -53,7 +68,27 @@
   </url>
   
   <url>
+    <loc>/applications/mosec/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/applications/pigeon/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/pinecone/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/pooldesigner/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/sbolgenbank/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,6 +123,11 @@
   </url>
   
   <url>
+    <loc>/applications/sbolme/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/sequence-design/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -98,12 +138,27 @@
   </url>
   
   <url>
+    <loc>/applications/synbiohub/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/vpr/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/applications/visbol/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
