@@ -5,12 +5,20 @@
     <link>/author/matthew-crowther/</link>
       <atom:link href="/author/matthew-crowther/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Crowther</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Matthew Crowther</title>
       <link>/author/matthew-crowther/</link>
     </image>
+    
+    <item>
+      <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
+      <link>/publication/crowther-shortbol-2020/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/crowther-shortbol-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Synthetic biology open language (SBOL) version 3.0.0</title>

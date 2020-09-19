@@ -20,5 +20,69 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Communicating Structure and Function in Synthetic Biology Diagrams</title>
+      <link>/publication/beal-communicating-2019/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/beal-communicating-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
+      <link>/publication/madsen-synthetic-2019-1/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/madsen-synthetic-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1</title>
+      <link>/publication/madsen-synthetic-2019/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/madsen-synthetic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
+      <link>/publication/beal-synthetic-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/beal-synthetic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Structure and Function in Biological Design with SBOL 2.0</title>
+      <link>/publication/roehner-sharing-2016/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/roehner-sharing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
+      <link>/publication/quinn-sbol-2015/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/quinn-sbol-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBF RFC 108: Synthetic Biology Open Language (SBOL) Version 2.0.0</title>
+      <link>/publication/bartley-bbf-2015/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bartley-bbf-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language</title>
+      <link>/publication/myers-synthetic-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-synthetic-2015/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

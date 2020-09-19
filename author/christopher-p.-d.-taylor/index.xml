@@ -5,12 +5,20 @@
     <link>/author/christopher-p.-d.-taylor/</link>
       <atom:link href="/author/christopher-p.-d.-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher P. D. Taylor</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Christopher P. D. Taylor</title>
       <link>/author/christopher-p.-d.-taylor/</link>
     </image>
+    
+    <item>
+      <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
+      <link>/publication/crowther-shortbol-2020/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/crowther-shortbol-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
