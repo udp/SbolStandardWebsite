@@ -788,8 +788,23 @@
   </url>
   
   <url>
+    <loc>/libraries/fsharp/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/jeanet-v-mante/</loc>
     <lastmod>2020-08-28T10:49:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/libraries/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libraries/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -805,6 +820,26 @@
   <url>
     <loc>/publication/mclaughlin-synbiohub-2018/</loc>
     <lastmod>2020-09-19T21:28:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libraries/cpp/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libraries/java/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libraries/python/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libraries/javascript/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
