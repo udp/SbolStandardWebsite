@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ganesh Sriram | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/ganesh-sriram/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/ganesh-sriram/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ganesh-sriram/</link>
+      <atom:link href="/author/ganesh-sriram/index.xml" rel="self" type="application/rss+xml" />
     <description>Ganesh Sriram</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 May 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Ganesh Sriram</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/ganesh-sriram/</link>
+      <link>/author/ganesh-sriram/</link>
     </image>
     
     <item>
       <title>Mathematical Modeling: Bridging the Gap between Concept and Realization in Synthetic Biology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/zheng-mathematical-2010/</link>
+      <link>/publication/zheng-mathematical-2010/</link>
       <pubDate>Sun, 30 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/zheng-mathematical-2010/</guid>
+      <guid>/publication/zheng-mathematical-2010/</guid>
       <description></description>
     </item>
     

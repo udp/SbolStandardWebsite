@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacqueline Quinn | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/jacqueline-quinn/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/jacqueline-quinn/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jacqueline-quinn/</link>
+      <atom:link href="/author/jacqueline-quinn/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacqueline Quinn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Jacqueline Quinn</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/jacqueline-quinn/</link>
+      <link>/author/jacqueline-quinn/</link>
     </image>
     
     <item>
       <title>The Synthetic Biology Open Language</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-synthetic-2015/</link>
+      <link>/publication/myers-synthetic-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-synthetic-2015/</guid>
+      <guid>/publication/myers-synthetic-2015/</guid>
       <description></description>
     </item>
     

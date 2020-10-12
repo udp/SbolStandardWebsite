@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Synthetic biology&#34; | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/tag/synthetic-biology/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/synthetic-biology/</link>
+      <atom:link href="/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Synthetic biology&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>&#34;Synthetic biology&#34;</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/tag/synthetic-biology/</link>
+      <link>/tag/synthetic-biology/</link>
     </image>
     
     <item>
       <title>Design of Asynchronous Genetic Circuits</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/nguyen-design-2019/</link>
+      <link>/publication/nguyen-design-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/nguyen-design-2019/</guid>
+      <guid>/publication/nguyen-design-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</link>
+      <link>/publication/quinn-sbol-2015/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</guid>
+      <guid>/publication/quinn-sbol-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/lib-sbo-lj-java-library-zhang-2015/</link>
+      <link>/publication/lib-sbo-lj-java-library-zhang-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
+      <guid>/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Synthetic Biology Open Language</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-synthetic-2015/</link>
+      <link>/publication/myers-synthetic-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-synthetic-2015/</guid>
+      <guid>/publication/myers-synthetic-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eugene – A Domain Specific Language for Specifying and Constraining Synthetic Biological Parts, Devices, and Systems</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/bilitchenko-eugene-2011/</link>
+      <link>/publication/bilitchenko-eugene-2011/</link>
       <pubDate>Fri, 29 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/bilitchenko-eugene-2011/</guid>
+      <guid>/publication/bilitchenko-eugene-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standard Biological Parts Knowledgebase</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-standard-2011/</link>
+      <link>/publication/galdzicki-standard-2011/</link>
       <pubDate>Thu, 24 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-standard-2011/</guid>
+      <guid>/publication/galdzicki-standard-2011/</guid>
       <description></description>
     </item>
     

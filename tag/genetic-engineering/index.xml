@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Genetic engineering&#34; | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/tag/genetic-engineering/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/tag/genetic-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/genetic-engineering/</link>
+      <atom:link href="/tag/genetic-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Genetic engineering&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>&#34;Genetic engineering&#34;</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/tag/genetic-engineering/</link>
+      <link>/tag/genetic-engineering/</link>
     </image>
     
     <item>
       <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</link>
+      <link>/publication/quinn-sbol-2015/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</guid>
+      <guid>/publication/quinn-sbol-2015/</guid>
       <description></description>
     </item>
     

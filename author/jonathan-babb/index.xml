@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Babb | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/jonathan-babb/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/jonathan-babb/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jonathan-babb/</link>
+      <atom:link href="/author/jonathan-babb/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Babb</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Aug 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Jonathan Babb</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/jonathan-babb/</link>
+      <link>/author/jonathan-babb/</link>
     </image>
     
     <item>
       <title>An End-to-End Workflow for Engineering of Biological Networks from High-Level Specifications</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-end-end-2012/</link>
+      <link>/publication/beal-end-end-2012/</link>
       <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-end-end-2012/</guid>
+      <guid>/publication/beal-end-end-2012/</guid>
       <description></description>
     </item>
     

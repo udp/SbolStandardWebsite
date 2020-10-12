@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ysis Tarter | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/ysis-tarter/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/ysis-tarter/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ysis-tarter/</link>
+      <atom:link href="/author/ysis-tarter/index.xml" rel="self" type="application/rss+xml" />
     <description>Ysis Tarter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Ysis Tarter</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/ysis-tarter/</link>
+      <link>/author/ysis-tarter/</link>
     </image>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</link>
+      <link>/publication/madsen-synthetic-2019-1/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</guid>
+      <guid>/publication/madsen-synthetic-2019-1/</guid>
       <description></description>
     </item>
     

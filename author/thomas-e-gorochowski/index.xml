@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas E Gorochowski | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/thomas-e-gorochowski/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/thomas-e-gorochowski/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/thomas-e-gorochowski/</link>
+      <atom:link href="/author/thomas-e-gorochowski/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas E Gorochowski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Thomas E Gorochowski</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/thomas-e-gorochowski/</link>
+      <link>/author/thomas-e-gorochowski/</link>
     </image>
     
     <item>
       <title>SBOL Visual 2 Ontology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/visual2ontology/</link>
+      <link>/publication/visual2ontology/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/visual2ontology/</guid>
+      <guid>/publication/visual2ontology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating structure and function in synthetic biology diagrams</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</link>
+      <link>/publication/beal-2019-communicating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</guid>
+      <guid>/publication/beal-2019-communicating/</guid>
       <description></description>
     </item>
     

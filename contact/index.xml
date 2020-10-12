@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/contact/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>/contact/</link>
+      <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Contact</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/contact/</link>
+      <link>/contact/</link>
     </image>
     
   </channel>

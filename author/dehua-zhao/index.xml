@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dehua Zhao | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/dehua-zhao/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/dehua-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/dehua-zhao/</link>
+      <atom:link href="/author/dehua-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Dehua Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Dehua Zhao</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/dehua-zhao/</link>
+      <link>/author/dehua-zhao/</link>
     </image>
     
     <item>
       <title>Refactoring the nitrogen fixation gene cluster from Klebsiella oxytoca</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/temme-refactoring-2012/</link>
+      <link>/publication/temme-refactoring-2012/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/temme-refactoring-2012/</guid>
+      <guid>/publication/temme-refactoring-2012/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James J. Collins | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/james-j.-collins/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/james-j.-collins/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/james-j.-collins/</link>
+      <atom:link href="/author/james-j.-collins/index.xml" rel="self" type="application/rss+xml" />
     <description>James J. Collins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>James J. Collins</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/james-j.-collins/</link>
+      <link>/author/james-j.-collins/</link>
     </image>
     
     <item>
       <title>A brief history of synthetic biology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/cameron-brief-2014/</link>
+      <link>/publication/cameron-brief-2014/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/cameron-brief-2014/</guid>
+      <guid>/publication/cameron-brief-2014/</guid>
       <description></description>
     </item>
     

@@ -2,205 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Beal | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/jacob-beal/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jacob-beal/</link>
+      <atom:link href="/author/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Beal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Jacob Beal</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/jacob-beal/</link>
+      <link>/author/jacob-beal/</link>
     </image>
     
     <item>
       <title>SBOL Visual 2 Ontology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/misirli-sbol-2020/</link>
+      <link>/publication/misirli-sbol-2020/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/misirli-sbol-2020/</guid>
+      <guid>/publication/misirli-sbol-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/crowther-shortbol-2020/</link>
+      <link>/publication/crowther-shortbol-2020/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/crowther-shortbol-2020/</guid>
+      <guid>/publication/crowther-shortbol-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic biology open language (SBOL) version 3.0.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/synthetic-biology-open-baig-2020/</link>
+      <link>/publication/synthetic-biology-open-baig-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/synthetic-biology-open-baig-2020/</guid>
+      <guid>/publication/synthetic-biology-open-baig-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic biology open language visual (SBOL visual) version 2.2</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</link>
+      <link>/publication/visualsbol221/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</guid>
+      <guid>/publication/visualsbol221/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SBOL Visual 2 Ontology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/visual2ontology/</link>
+      <link>/publication/visual2ontology/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/visual2ontology/</guid>
+      <guid>/publication/visual2ontology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/shortbol/</link>
+      <link>/publication/shortbol/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/shortbol/</guid>
+      <guid>/publication/shortbol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating Structure and Function in Synthetic Biology Diagrams</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-communicating-2019/</link>
+      <link>/publication/beal-communicating-2019/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-communicating-2019/</guid>
+      <guid>/publication/beal-communicating-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specifying Combinatorial Designs with the Synthetic Biology Open Language (SBOL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/roehner-specifying-2019/</link>
+      <link>/publication/roehner-specifying-2019/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/roehner-specifying-2019/</guid>
+      <guid>/publication/roehner-specifying-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</link>
+      <link>/publication/madsen-synthetic-2019-1/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</guid>
+      <guid>/publication/madsen-synthetic-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019/</link>
+      <link>/publication/madsen-synthetic-2019/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019/</guid>
+      <guid>/publication/madsen-synthetic-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating structure and function in synthetic biology diagrams</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</link>
+      <link>/publication/beal-2019-communicating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</guid>
+      <guid>/publication/beal-2019-communicating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Language for Protein Design</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/cox-visual-2017/</link>
+      <link>/publication/cox-visual-2017/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/cox-visual-2017/</guid>
+      <guid>/publication/cox-visual-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A standard-enabled workflow for synthetic biology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-standard-enabled-2017/</link>
+      <link>/publication/myers-standard-enabled-2017/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/myers-standard-enabled-2017/</guid>
+      <guid>/publication/myers-standard-enabled-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-synthetic-2016/</link>
+      <link>/publication/beal-synthetic-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-synthetic-2016/</guid>
+      <guid>/publication/beal-synthetic-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Synthetic Biology Communication: Recommended Practices for Visual Depiction and Digital Submission of Genetic Designs</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/hillson-improving-2016/</link>
+      <link>/publication/hillson-improving-2016/</link>
       <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/hillson-improving-2016/</guid>
+      <guid>/publication/hillson-improving-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing Structure and Function in Biological Design with SBOL 2.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/roehner-sharing-2016/</link>
+      <link>/publication/roehner-sharing-2016/</link>
       <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/roehner-sharing-2016/</guid>
+      <guid>/publication/roehner-sharing-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</link>
+      <link>/publication/quinn-sbol-2015/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/quinn-sbol-2015/</guid>
+      <guid>/publication/quinn-sbol-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/lib-sbo-lj-java-library-zhang-2015/</link>
+      <link>/publication/lib-sbo-lj-java-library-zhang-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
+      <guid>/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BBF RFC 108: Synthetic Biology Open Language (SBOL) Version 2.0.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/bartley-bbf-2015/</link>
+      <link>/publication/bartley-bbf-2015/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/bartley-bbf-2015/</guid>
+      <guid>/publication/bartley-bbf-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Synthetic Biology Open Language (SBOL) provides a community standard for communicating designs in synthetic biology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-synthetic-2014/</link>
+      <link>/publication/galdzicki-synthetic-2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-synthetic-2014/</guid>
+      <guid>/publication/galdzicki-synthetic-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 1.1.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-synthetic-2012/</link>
+      <link>/publication/galdzicki-synthetic-2012/</link>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-synthetic-2012/</guid>
+      <guid>/publication/galdzicki-synthetic-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Workflow for Engineering of Biological Networks from High-Level Specifications</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-end-end-2012/</link>
+      <link>/publication/beal-end-end-2012/</link>
       <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-end-end-2012/</guid>
+      <guid>/publication/beal-end-end-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Selection of Synthetic Biology Parts for Genetic Regulatory Networks</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/yaman-automated-2012/</link>
+      <link>/publication/yaman-automated-2012/</link>
       <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/yaman-automated-2012/</guid>
+      <guid>/publication/yaman-automated-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Title: Synthetic Biology Open Language (SBOL) Version 1.0.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/wipat-title-2011/</link>
+      <link>/publication/wipat-title-2011/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/wipat-title-2011/</guid>
+      <guid>/publication/wipat-title-2011/</guid>
       <description></description>
     </item>
     

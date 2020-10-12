@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kiri Choi | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/kiri-choi/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/kiri-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/kiri-choi/</link>
+      <atom:link href="/author/kiri-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiri Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Kiri Choi</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/kiri-choi/</link>
+      <link>/author/kiri-choi/</link>
     </image>
     
     <item>
       <title>pySBOL: A Python Package for Genetic Design Automation and Standardization</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/bartley-pysbol-2019/</link>
+      <link>/publication/bartley-pysbol-2019/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/bartley-pysbol-2019/</guid>
+      <guid>/publication/bartley-pysbol-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</link>
+      <link>/publication/madsen-synthetic-2019-1/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/madsen-synthetic-2019-1/</guid>
+      <guid>/publication/madsen-synthetic-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-synthetic-2016/</link>
+      <link>/publication/beal-synthetic-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-synthetic-2016/</guid>
+      <guid>/publication/beal-synthetic-2016/</guid>
       <description></description>
     </item>
     

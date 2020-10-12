@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SBOL Ontology | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/datamodel-ontology/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/datamodel-ontology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/datamodel-ontology/</link>
+      <atom:link href="/datamodel-ontology/index.xml" rel="self" type="application/rss+xml" />
     <description>SBOL Ontology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>SBOL Ontology</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/datamodel-ontology/</link>
+      <link>/datamodel-ontology/</link>
     </image>
     
   </channel>

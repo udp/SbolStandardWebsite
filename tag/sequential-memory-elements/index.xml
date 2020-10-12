@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;sequential memory elements&#34; | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/tag/sequential-memory-elements/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/tag/sequential-memory-elements/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/sequential-memory-elements/</link>
+      <atom:link href="/tag/sequential-memory-elements/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;sequential memory elements&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>&#34;sequential memory elements&#34;</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/tag/sequential-memory-elements/</link>
+      <link>/tag/sequential-memory-elements/</link>
     </image>
     
     <item>
       <title>Design of Asynchronous Genetic Circuits</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/nguyen-design-2019/</link>
+      <link>/publication/nguyen-design-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/nguyen-design-2019/</guid>
+      <guid>/publication/nguyen-design-2019/</guid>
       <description></description>
     </item>
     

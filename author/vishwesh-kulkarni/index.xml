@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vishwesh Kulkarni | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/vishwesh-kulkarni/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/vishwesh-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/vishwesh-kulkarni/</link>
+      <atom:link href="/author/vishwesh-kulkarni/index.xml" rel="self" type="application/rss+xml" />
     <description>Vishwesh Kulkarni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Vishwesh Kulkarni</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/vishwesh-kulkarni/</link>
+      <link>/author/vishwesh-kulkarni/</link>
     </image>
     
     <item>
       <title>Synthetic biology open language (SBOL) version 3.0.0</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/synthetic-biology-open-baig-2020/</link>
+      <link>/publication/synthetic-biology-open-baig-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/synthetic-biology-open-baig-2020/</guid>
+      <guid>/publication/synthetic-biology-open-baig-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic biology open language visual (SBOL visual) version 2.2</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</link>
+      <link>/publication/visualsbol221/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</guid>
+      <guid>/publication/visualsbol221/</guid>
       <description></description>
     </item>
     

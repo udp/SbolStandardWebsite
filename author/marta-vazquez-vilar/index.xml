@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marta Vazquez Vilar | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/marta-vazquez-vilar/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/marta-vazquez-vilar/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/marta-vazquez-vilar/</link>
+      <atom:link href="/author/marta-vazquez-vilar/index.xml" rel="self" type="application/rss+xml" />
     <description>Marta Vazquez Vilar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Marta Vazquez Vilar</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/marta-vazquez-vilar/</link>
+      <link>/author/marta-vazquez-vilar/</link>
     </image>
     
     <item>
       <title>Synthetic biology open language visual (SBOL visual) version 2.2</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</link>
+      <link>/publication/visualsbol221/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/visualsbol221/</guid>
+      <guid>/publication/visualsbol221/</guid>
       <description></description>
     </item>
     

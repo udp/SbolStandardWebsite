@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> others | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/others/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/others/</link>
+      <atom:link href="/author/others/index.xml" rel="self" type="application/rss+xml" />
     <description> others</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title> others</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/others/</link>
+      <link>/author/others/</link>
     </image>
     
     <item>
       <title>Communicating structure and function in synthetic biology diagrams</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</link>
+      <link>/publication/beal-2019-communicating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/beal-2019-communicating/</guid>
+      <guid>/publication/beal-2019-communicating/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mackenzie Cowell | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/mackenzie-cowell/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/mackenzie-cowell/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mackenzie-cowell/</link>
+      <atom:link href="/author/mackenzie-cowell/index.xml" rel="self" type="application/rss+xml" />
     <description>Mackenzie Cowell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Mackenzie Cowell</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/mackenzie-cowell/</link>
+      <link>/author/mackenzie-cowell/</link>
     </image>
     
     <item>
       <title>Provisional BioBrick Language (PoBoL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-provisional-2009/</link>
+      <link>/publication/galdzicki-provisional-2009/</link>
       <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/galdzicki-provisional-2009/</guid>
+      <guid>/publication/galdzicki-provisional-2009/</guid>
       <description></description>
     </item>
     

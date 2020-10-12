@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualization | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/tag/visualization/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/visualization/</link>
+      <atom:link href="/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Visualization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>Visualization</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/tag/visualization/</link>
+      <link>/tag/visualization/</link>
     </image>
     
     <item>
       <title>Device Editor</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/device-editor/</link>
+      <link>/applications/device-editor/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/device-editor/</guid>
+      <guid>/applications/device-editor/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>DNAplotlib</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/dnaplotlib/</link>
+      <link>/applications/dnaplotlib/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/dnaplotlib/</guid>
+      <guid>/applications/dnaplotlib/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Eugene</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/eugene/</link>
+      <link>/applications/eugene/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/eugene/</guid>
+      <guid>/applications/eugene/</guid>
       <description>&lt;p&gt;Eugene is a textual specification language for the rule-based design of synthetic biological systems, devices, parts, and DNA sequences.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -138,9 +138,9 @@
     
     <item>
       <title>Finch</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/finch/</link>
+      <link>/applications/finch/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/finch/</guid>
+      <guid>/applications/finch/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -176,9 +176,9 @@
     
     <item>
       <title>Graphviz</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/graphviz/</link>
+      <link>/applications/graphviz/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/graphviz/</guid>
+      <guid>/applications/graphviz/</guid>
       <description>&lt;p&gt;Graphviz (short for Graph Visualization Software) is a package of open-source tools initiated by AT&amp;amp;T Labs Research for drawing graphs specified in DOT language scripts. It also provides libraries for software applications to use the tools. Graphviz is free software licensed under the Eclipse Public License. Graphviz includes SBOL visual symbols in its set of node shapes, and has edge shapes compatible with proposed regulatory arc shapes.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -219,9 +219,9 @@
     
     <item>
       <title>iBioSim</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/ibiosim/</link>
+      <link>/applications/ibiosim/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/ibiosim/</guid>
+      <guid>/applications/ibiosim/</guid>
       <description>&lt;p&gt;iBioSim has been developed for the modeling, analysis, and design of genetic circuits. While iBioSim primarily targets models of genetic circuits, models representing metabolic networks, cell-signaling pathways, and other biological and chemical systems can also be analyzed. iBioSim also includes modeling and visualization support for multi-cellular and spatial models as well. It is capable of importing and exporting models specified using the Systems Biology Markup Language (SBML). It can import all levels and versions of SBML and is able to export Level 3 Version 1. It supports all core SBML modeling constructs except some types of fast reactions, and also has support for the hierarchical model composition, layout, flux balance constraints, and arrays packages. It was the first tool to produce correct results for all examples in the SBML benchmark suite. It has also been tested successfully on the stochastic benchmark suite and the curated models in the BioModels database. Finally, it is one of the first tools to also support the Synthetic Biology Open Language (SBOL), an emerging standard for information exchange in synthetic biology.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -267,9 +267,9 @@
     
     <item>
       <title>ICE</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/ice/</link>
+      <link>/applications/ice/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/ice/</guid>
+      <guid>/applications/ice/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -309,9 +309,9 @@
     
     <item>
       <title>MoSeC</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/mosec/</link>
+      <link>/applications/mosec/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/mosec/</guid>
+      <guid>/applications/mosec/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -347,9 +347,9 @@
     
     <item>
       <title>Pigeon Visualizer</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/pigeon/</link>
+      <link>/applications/pigeon/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/pigeon/</guid>
+      <guid>/applications/pigeon/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -385,9 +385,9 @@
     
     <item>
       <title>Proto BioCompiler</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/protobiocompiler/</link>
+      <link>/applications/protobiocompiler/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/protobiocompiler/</guid>
+      <guid>/applications/protobiocompiler/</guid>
       <description>&lt;p&gt;Proto BioCompiler generates optimized genetic regulatory network designs from specifications written in a high-level programming language, producing both SBOL specifications, visualization, and ODE models.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -428,9 +428,9 @@
     
     <item>
       <title>SBOLDesigner</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/sboldesigner/</link>
+      <link>/applications/sboldesigner/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/sboldesigner/</guid>
+      <guid>/applications/sboldesigner/</guid>
       <description>&lt;p&gt;SBOLDesigner 2.1 is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.0 data model. Throughout the design process, SBOL Visual symbols, a system of schematic glyphs, provide standardized visualizations of individual parts. SBOLDesigner 2.1 completes a workflow for users of genetic design automation tools. It combines a simple user interface with the power of the SBOL standard and serves as a launchpad for more detailed designs involving simulations and experiments. Some new features in SBOLDesigner 2.1 are SBOL Stack integration, local repositories, importing of parts/sequences from existing files, import and export of GenBank and FASTA files, extended role ontology support, the ability to partially open designs with multiple root ComponentDefinitions, backward compatibility with SBOL 1.1, and versioning. SBOLDesigner is made freely available under the Apache 2.0 license.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -471,9 +471,9 @@
     
     <item>
       <title>SynBioHub</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/synbiohub/</link>
+      <link>/applications/synbiohub/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/synbiohub/</guid>
+      <guid>/applications/synbiohub/</guid>
       <description>&lt;p&gt;SynBioHub is a registry for storing and sharing genetic circuit designs using the SBOL2 standard. Designs can be uploaded in SBOL or GenBank format, assigned a public link to share with collaborators and for publications, and searched using rich querying functionality.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -519,9 +519,9 @@
     
     <item>
       <title>TinkerCell</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/tinkercell/</link>
+      <link>/applications/tinkercell/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/tinkercell/</guid>
+      <guid>/applications/tinkercell/</guid>
       <description>&lt;p&gt;TinkerCell is a widely used open source network design and simulation application tool for synthetic biology (tinkercell.org). The software allows synthetic biologists to design new synthetic circuits and simulate them. TinkerCell is written in C++ and runs on Windows, Mac and Linux. It uses Qt as the GUI framework. Currently TinkerCell only has very limited support for SBOL.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -562,9 +562,9 @@
     
     <item>
       <title>VisBOL</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/visbol/</link>
+      <link>/applications/visbol/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/visbol/</guid>
+      <guid>/applications/visbol/</guid>
       <description>&lt;p&gt;VisBOL is a JavaScript software library to visualize DNA features from SBOL2 documents using the SBOL Visual standard. A Web interface is also provided to enable end-user access to generate diagrams for presentations and publications.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;

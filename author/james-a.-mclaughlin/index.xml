@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James A. McLaughlin | The Synthetic Biology Open Language</title>
-    <link>https://synbiodex.github.io/SbolStandardWebsite/author/james-a.-mclaughlin/</link>
-      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/author/james-a.-mclaughlin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/james-a.-mclaughlin/</link>
+      <atom:link href="/author/james-a.-mclaughlin/index.xml" rel="self" type="application/rss+xml" />
     <description>James A. McLaughlin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
+      <url>/images/logo.svg</url>
       <title>James A. McLaughlin</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/author/james-a.-mclaughlin/</link>
+      <link>/author/james-a.-mclaughlin/</link>
     </image>
     
     <item>
       <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/crowther-shortbol-2020/</link>
+      <link>/publication/crowther-shortbol-2020/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/crowther-shortbol-2020/</guid>
+      <guid>/publication/crowther-shortbol-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ShortBOL: A Language for Scripting Designs for Engineered Biological Systems Using Synthetic Biology Open Language (SBOL)</title>
-      <link>https://synbiodex.github.io/SbolStandardWebsite/publication/shortbol/</link>
+      <link>/publication/shortbol/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://synbiodex.github.io/SbolStandardWebsite/publication/shortbol/</guid>
+      <guid>/publication/shortbol/</guid>
       <description></description>
     </item>
     
