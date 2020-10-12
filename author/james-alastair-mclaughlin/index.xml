@@ -5,12 +5,20 @@
     <link>/author/james-alastair-mclaughlin/</link>
       <atom:link href="/author/james-alastair-mclaughlin/index.xml" rel="self" type="application/rss+xml" />
     <description>James Alastair McLaughlin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>James Alastair McLaughlin</title>
       <link>/author/james-alastair-mclaughlin/</link>
     </image>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering</title>
+      <link>/publication/synthetic-biology-open-mclaughlin-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-mclaughlin-2020-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Communicating Structure and Function in Synthetic Biology Diagrams</title>
