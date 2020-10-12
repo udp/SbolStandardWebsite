@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modeling | The Synthetic Biology Open Language</title>
-    <link>/tag/modeling/</link>
-      <atom:link href="/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://synbiodex.github.io/SbolStandardWebsite/tag/modeling/</link>
+      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Modeling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo.svg</url>
+      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
       <title>Modeling</title>
-      <link>/tag/modeling/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/tag/modeling/</link>
     </image>
     
     <item>
       <title>Cello</title>
-      <link>/applications/cello/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/cello/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/cello/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/cello/</guid>
       <description>&lt;p&gt;Cello is a framework that describes what is essentially a programming language to design computational circuits in living cells. The circuits generated on plasmids expressed in Escherichia coli required careful insulation from their genetic context, but primarily functioned as specified. The circuits could, for example, regulate cellular functions in response to multiple environmental signals. Such a strategy can facilitate the development of more complex circuits by genetic engineering.&lt;/p&gt;
 &lt;p&gt;Cello converts electronic design specifications of combinational logic to complete DNA sequences encoding transcriptional logic circuits that can be executed in bacterial cells. A database of transcriptional repressors characterized in the Voigt lab provide genetic NOT gates and NOR gates that can be composed into any Boolean logic function specified in Verilog.&lt;/p&gt;
 &lt;table&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>iBioSim</title>
-      <link>/applications/ibiosim/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/ibiosim/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/ibiosim/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/ibiosim/</guid>
       <description>&lt;p&gt;iBioSim has been developed for the modeling, analysis, and design of genetic circuits. While iBioSim primarily targets models of genetic circuits, models representing metabolic networks, cell-signaling pathways, and other biological and chemical systems can also be analyzed. iBioSim also includes modeling and visualization support for multi-cellular and spatial models as well. It is capable of importing and exporting models specified using the Systems Biology Markup Language (SBML). It can import all levels and versions of SBML and is able to export Level 3 Version 1. It supports all core SBML modeling constructs except some types of fast reactions, and also has support for the hierarchical model composition, layout, flux balance constraints, and arrays packages. It was the first tool to produce correct results for all examples in the SBML benchmark suite. It has also been tested successfully on the stochastic benchmark suite and the curated models in the BioModels database. Finally, it is one of the first tools to also support the Synthetic Biology Open Language (SBOL), an emerging standard for information exchange in synthetic biology.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>j5</title>
-      <link>/applications/j5/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/j5/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/j5/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/j5/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>Parts &amp; Pools</title>
-      <link>/applications/partsandpools/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/partsandpools/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/partsandpools/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/partsandpools/</guid>
       <description>&lt;p&gt;Graphical, drag and drop design of synthetic gene circuit with Standard Biological Parts. Eukaryotic parts are modelled via a rule-based approach.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Proto BioCompiler</title>
-      <link>/applications/protobiocompiler/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/protobiocompiler/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/protobiocompiler/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/protobiocompiler/</guid>
       <description>&lt;p&gt;Proto BioCompiler generates optimized genetic regulatory network designs from specifications written in a high-level programming language, producing both SBOL specifications, visualization, and ODE models.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -222,9 +222,9 @@
     
     <item>
       <title>Tellurium</title>
-      <link>/applications/tellurium/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/tellurium/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/tellurium/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/tellurium/</guid>
       <description>&lt;p&gt;Tellurium is a Python environment based on spyder2 IDE, designed for systems and synthetic biology simulations. It combines a number of existing libraries, including libRoadRunner, libAntimony, and phraSED-ML, alongside with standards support through libSBML, libSEDML, and pySBOL. Additionally, other Python packages such as matplotlib and NumPy are used to provide extra analysis, optimization, and plotting capabilities.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -265,9 +265,9 @@
     
     <item>
       <title>TinkerCell</title>
-      <link>/applications/tinkercell/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/tinkercell/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/tinkercell/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/tinkercell/</guid>
       <description>&lt;p&gt;TinkerCell is a widely used open source network design and simulation application tool for synthetic biology (tinkercell.org). The software allows synthetic biologists to design new synthetic circuits and simulate them. TinkerCell is written in C++ and runs on Windows, Mac and Linux. It uses Qt as the GUI framework. Currently TinkerCell only has very limited support for SBOL.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -308,9 +308,9 @@
     
     <item>
       <title>Virtual Parts Repository</title>
-      <link>/applications/vpr/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/applications/vpr/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/applications/vpr/</guid>
+      <guid>https://synbiodex.github.io/SbolStandardWebsite/applications/vpr/</guid>
       <description>&lt;p&gt;A repository of modular models of biological components. These models are reusable and composable, and facilitate model-driven design of biological systems.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions | The Synthetic Biology Open Language</title>
-    <link>/faq/</link>
-      <atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://synbiodex.github.io/SbolStandardWebsite/faq/</link>
+      <atom:link href="https://synbiodex.github.io/SbolStandardWebsite/faq/index.xml" rel="self" type="application/rss+xml" />
     <description>Frequently Asked Questions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/logo.svg</url>
+      <url>https://synbiodex.github.io/SbolStandardWebsite/images/logo.svg</url>
       <title>Frequently Asked Questions</title>
-      <link>/faq/</link>
+      <link>https://synbiodex.github.io/SbolStandardWebsite/faq/</link>
     </image>
     
   </channel>
