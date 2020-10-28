@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "SBOL is a data standard for engineering biology"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # ![alt text](sbol-logo.png "Logo Title Text 1")
@@ -21,8 +21,8 @@ title = "Academic"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "white"
+  gradient_end = "white"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -32,7 +32,7 @@ title = "Academic"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -54,10 +54,8 @@ title = "Academic"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+Synthetic biology is an emerging discipline concerning the design of novel biological systems. SBOL provides a data standard for exchanging information about these systems, enabling people and software to work together more effectively.
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-
+<div style="text-align: center; width: 100%;">
+<img src="/img/toggle.svg" style="display: inline;"/>
+</div>

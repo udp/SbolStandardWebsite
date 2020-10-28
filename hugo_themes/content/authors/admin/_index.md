@@ -77,7 +77,11 @@ user_groups:
 ---
 
 
-* SBOL is an open standard for the representation of in silico biological designs.
-* SBOL provides a data format composed of genetic vocabulary terms called SBOL Data.
-* SBOL also provides schematic glyphs to graphically depict genetic designs called SBOL Visual.
-* SBOL standardises data used by synthetic biology practitioners, from users to software developers to wet lab biologists.
+<h1>SBOL is a data standard for engineering biology</h1>
+
+<p>
+Synthetic biology is an emerging discipline concerning the design of novel biological systems.
+SBOL provides a data standard for exchanging information about these systems, enabling people and software to work together more effectively.
+</p>
+
+
